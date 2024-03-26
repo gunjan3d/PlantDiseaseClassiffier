@@ -54,8 +54,3 @@ The dataset used for training and testing the model contains images of various p
 Contribution:
 Contributions to this project are welcome. If you encounter any bugs, have feature requests, or want to contribute enhancements, please submit an issue or pull request.
 
-Credits:
-This project was developed by [Your Name] and is licensed under the [License Name]. Special thanks to the creators of TensorFlow, Keras, and Streamlit for their excellent tools and libraries.
-
-License:
-This project is licensed under the [License Name]. See the LICENSE file for details.# PlantDiseaseClassiffier
