@@ -54,3 +54,4 @@ The dataset used for training and testing the model contains images of various p
 Contribution:
 Contributions to this project are welcome. If you encounter any bugs, have feature requests, or want to contribute enhancements, please submit an issue or pull request.
 
+The Dataset can be downloaded from [Click Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
