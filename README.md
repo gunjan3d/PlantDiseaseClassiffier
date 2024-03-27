@@ -55,3 +55,5 @@ Contribution:
 Contributions to this project are welcome. If you encounter any bugs, have feature requests, or want to contribute enhancements, please submit an issue or pull request.
 
 The Dataset can be downloaded from [Click Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+Install all dependecies and run the notebook and a modelfile will be exported into your respective folder 
+Then run the main.py file from terminal using streamlit run main.py and you will have a running website to upload images and predict the diseases
